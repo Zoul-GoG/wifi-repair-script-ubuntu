@@ -1,3 +1,6 @@
+sudo apt update 
+sudo apt upgrade
+sudo apt install git
 sudo apt install bc module-assistant build-essential dkms
 sudo m-a prepare
 git clone https://github.com/tomaspinho/rtl8821ce
